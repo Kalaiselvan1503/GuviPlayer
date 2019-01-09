@@ -2,7 +2,7 @@
 n=int(input())
 b=[]
 for i in range(0,n):
-    a=int(input())
+    a=list(map(int,input().split()))
     b.append(a)
 s=0
 t=0
