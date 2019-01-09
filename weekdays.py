@@ -1,0 +1,16 @@
+#jokjsjdz;
+s=input()
+if(s=='Monday'):
+	print('no')
+elif(s=='Tuesday'):
+	print('no')
+elif(s=='Wednesday'):
+	print('no')
+elif(s=='Thursday'):
+	print('no')
+elif(s=='Friday'):
+	print('no')
+elif(s=='Saturday'):
+	print('yes')
+elif(s=='Sunday'):
+	print('yes')
